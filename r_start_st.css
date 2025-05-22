@@ -9,6 +9,12 @@ body {
   font-family: Arial, sans-serif;
 }
 
+form {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 #reaction {
   font-size: 32px;             /* 크고 */
   font-weight: bold;           /* 굵게 */

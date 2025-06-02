@@ -1,5 +1,5 @@
 body {
-    margin:0;
+    margin:20;
     padding:0;
     overflow: hidden;
 }
@@ -8,7 +8,7 @@ body {
     color: white;
     animation: glowBlink 1.5s infinite;
   }
-  
+
   @keyframes glowBlink {
     0% {
       text-shadow: none;
